@@ -1,6 +1,6 @@
 <h1 align="center">☠☠Yohoho! Watashi wa Zrital desu.☠☠</h1>
 <h3 align="center">🗺️ Mapping the world of software, from East Blue to Backend.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=0e75b6&style=flat" alt="zrital3265" /> </p>
 
 - 🔭 I’m currently working on **Personal Projects.**
