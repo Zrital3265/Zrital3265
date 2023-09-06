@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
 
-- 🔭 I’m currently working on **Personal Projects.**
+- 🔭 I am actively engaged on my own **Personal Endeavors.**
 
-- 🌱 I’m currently learning **Backend Development.**
+- 🌱 At the moment, I am exploring **Server-Side Development.**
 
-- 📫 How to reach me **ztrital12580@gmail.com**
+- 📫 Feel free to hit me up at: **ztrital12580@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
