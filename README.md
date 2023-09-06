@@ -7,7 +7,7 @@
 
 - 🌱 At the moment, I am exploring **Server-Side Development.**
 
-- 📫 Feel free to hit me up at: **ztrital12580@gmail.com**
+- 📫 Feel free to hit me up at: **atrital05@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
