@@ -29,6 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zrital3265&theme=highcontrast" alt="zrital3265" /></p>
 
 
-## Support My Work
-
 **If you find my projects useful or interesting, consider supporting me by starring ⭐️ my repositories.**
