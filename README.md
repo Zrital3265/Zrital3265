@@ -5,7 +5,7 @@
 
 - 🔭 I am actively engaged on my own **Personal Endeavors.**
 
-- 🌱 At the moment, I am exploring **Server-Side Development.**
+- 🌱 At the moment, I am exploring **Server-side development along with data structures and algorithms.**
 
 - 📫 Feel free to hit me up at: **atrital05@gmail.com**
 
