@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, it's Arpan Here..</h1>
+<h2 align="center">Hi there, myself Arpan Trital Here..</h1>
 <h3 align="center">🗺️ Mapping the world of software, from East Blue to Backend.</h3>
 <img align="right" alt="Coding" width="390" height="300" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
