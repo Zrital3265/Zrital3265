@@ -8,7 +8,7 @@
 
 - 🌱 At the moment, I am exploring **Mern stack along with DSA.**
 
-- 📫 Feel free to hit me up at: **atrital05@gmail.com**
+- 📫 Feel free to hit me up at: **arpantrital4@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
