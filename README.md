@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
 
-- 🔭 I am actively engaged on my own **Personal Endeavors.**
-
-- 🌱 At the moment, I am exploring **Mern stack along with DSA.**
+- 🌱 Currently, I am exploring **Front-end with NEXT.js**
 
 - 📫 Feel free to hit me up at: **arpantrital4@gmail.com**
 
