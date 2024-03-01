@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
 
-- 🌱 Currently, I am exploring ** NEXT.js**
+- 🌱 Currently, I am exploring **NEXT.js**
 
 - 📫 Feel free to hit me up at: **arpantrital4@gmail.com**
 
