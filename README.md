@@ -11,7 +11,7 @@
 
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrital3265&show_icons=true&theme=highcontrast&locale=en" alt="zrital3265" style=" width: 41%;"  margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zrital3265&show_icons=true&theme=highcontrast&locale=en" alt="zrital3265" style=" width: 44%;"  margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zrital3265&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="zrital3265" style="width: 41%;" >
 </div>
 
