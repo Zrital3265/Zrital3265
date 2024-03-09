@@ -12,7 +12,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,postman,linux,git" title="HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" alt=" HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" width = "650"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,postman,linux,git" title="HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" alt=" HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" width = "700"/>
 
 - 🌱 Exploring, Next.js as of now.
 - ✉️ Lets get connected: **arpantrital4@gmail.com** 
