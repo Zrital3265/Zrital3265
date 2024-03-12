@@ -1,5 +1,5 @@
 <p align="center"><img width="45%" alt="Hello!, Arpan Trital here." src="./assets/readme2.png" /></p>
-<h2 align="center">🗺️ Mapping the world of software, from East Blue to Backend.</h2>
+<h3 align="center">🗺️ Mapping the world of software, from East Blue to Backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
 
