@@ -1,6 +1,6 @@
 <div>
 <p align="center"><img width="45%" alt="Hello!, Arpan Trital here." src="./assets/readme2.png" /></p>
-<p align="center"><img width="65%" alt="Hello!, Arpan Trital here." src="./assets/redme.onepiece.png" /></p>
+<p align="center"><img width="6500%" alt="Hello!, Arpan Trital here." src="./assets/redme.onepiece.png" /></p>
 </div>
 
 
