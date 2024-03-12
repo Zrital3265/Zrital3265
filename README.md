@@ -1,6 +1,6 @@
 <div>
 <p align="center"><img width="50%" alt="Hello!, Arpan Trital here." src="./assets/Zri.png" /></p>
-<p align="center"><img width="80%" alt="Hello!, Arpan Trital here." src="./assets/subMain.png" /></p>
+<p align="center"><img width="80%" alt="One piece quote here." src="./assets/subMain.png" /></p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
