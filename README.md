@@ -2,6 +2,7 @@
 <img width="50%" alt="Hello!, Arpan Trital here." src="./assets/Zri.png" />
 <img width="79%" alt="One piece quote here." src="./ZRI.png" />
 </div>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
 
 <div align = "center">
