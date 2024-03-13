@@ -6,8 +6,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrital3265&label=Profile%20views&color=c061cb&style=plastic" alt="zrital3265" /> </p>
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrital3265&show_icons=true&theme=midnight-purple&locale=en" alt="zrital3265" style=" width: 49%;"  margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zrital3265&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="zrital3265" style="width: 44%;" >
+  <img src="https://github-readme-stats.vercel.app/api?username=zrital3265&show_icons=true&theme=holi&locale=en" alt="zrital3265" style=" width: 49%;"  margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zrital3265&show_icons=true&theme=holi&locale=en&layout=compact" alt="zrital3265" style="width: 44%;" >
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
