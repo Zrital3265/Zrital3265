@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zrital3265&show_icons=true&theme=holi&locale=en&layout=compact" alt="zrital3265" style="width: 44%;" >
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align = "left">
+<h2 align="center">Languages and Tools:</h2>
+<p align = "center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,postman,linux,git" title="HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" alt=" HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" width = "700"/>
 </p>
