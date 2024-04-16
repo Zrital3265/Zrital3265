@@ -14,3 +14,8 @@
 <p align = "center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,postman,linux,git" title="HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" alt=" HTML, CSS, Bootstrap, Tailwind, JS, TS, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, MySQL, Postman, Linux, Git" width = "700"/>
 </p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+</p>
+
