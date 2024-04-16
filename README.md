@@ -16,6 +16,6 @@
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,3&height=65&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=egg&height=5&section=footer"/>
 </p>
 
